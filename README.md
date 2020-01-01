@@ -1,6 +1,6 @@
 # Internship-Projects
 
-Unfortunately, due to NDA's, I am unable to upload the code for the projects that were completed during my internship at an AI company in Cape Town.
+Unfortunately, due to an NDA, I am unable to upload the code for the projects that were completed during my internship at an AI company in Cape Town.
 However, I will briefly outline the tools that were used.
 
 1. Built a **python app** using bokeh. Besides for basic functionality (which cannot be disclosed), the app had to be able to store the interaction of the user and save it locally in JSON files. We presented the app to the whole company, and they seemed impressed with our work.
